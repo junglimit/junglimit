@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BB037&width=435&lines=WELCOME+TO+jaehan's+GITHUB)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BB037&width=435&lines=jaehan's+GITHUB)](https://git.io/typing-svg) 
 
 <!--
 **junglimit/junglimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=🎊WELCOME🎊&fontSize=25&fontColor=d9e2f1" />
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
